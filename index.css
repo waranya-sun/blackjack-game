@@ -1,0 +1,39 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  margin: 40px 0;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: 1px solid #000;
+}
+
+button#btnStart {
+  margin-right: 15px;
+}
+
+#container {
+  width: 500px;
+  margin: 30px auto;
+  padding: 20px 0 40px;
+  background-color: rgb(253, 218, 223);
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+#cards,
+#sum {
+  margin-left: 10px;
+}
